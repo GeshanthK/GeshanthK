@@ -9,6 +9,12 @@
 ---
 
 <img align="left" alt="Geshy47's Github Stat 1" src="https://github-readme-stats.vercel.app/api?username=Geshy47&show_icons=true&hide_border=true" /><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Connect with me:
 [<img align="left" alt="Geshy47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
