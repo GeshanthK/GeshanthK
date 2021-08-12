@@ -21,7 +21,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Geshy47 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Geshy47 | Instragram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
+[<img align="left" alt="Geshy47 | Instragram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/geshanth-krishnapillai47/
 [instagram]: https://www.instagram.com/gesh.k/
