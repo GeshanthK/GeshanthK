@@ -6,6 +6,10 @@
 - 🧑‍🤝‍🧑 Looking to colloborate with other like-minded individuals
 - ⚡ Fun Fact: I enjoy participating in competitve sports & MMA
 
+---
+
+<img align="left" alt="Geshy47's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Geshy47&show_icons=true&hide_border=true" />
+
 ### Connect with me:
 [<img align="left" alt="Geshy47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Geshy47 | Instragram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
