@@ -1,4 +1,4 @@
-### Hi there, I'm Geshanth - Computer Engineer 👋
+### Hi there, I'm Geshanth Krishnapillai - Computer Engineer 👋
 
 ## I'm a Student, Developer, Designer!
 - 🧑‍🎓 2nd Year student at the University of Ottawa
