@@ -1,7 +1,7 @@
 ### Hi there, I'm Geshanth Krishnapillai - Computer Engineer 👋
 
 ## I'm a Student, Developer, Designer!
-- 🧑‍🎓 4th Year student at the University of Ottawa
+- 🧑‍🎓 4th year student @ The University of Ottawa
 - ❤️‍🔥 I have a love and passion towards developing new technology
 - 🧑‍🤝‍🧑 Looking to colloborate with other like-minded individuals
 - ⚡ Fun Fact: I enjoy participating in competitve sports & MMA
