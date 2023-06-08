@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, Designer!
 - 🧑‍🎓 4th year student @ University of Ottawa
-- ❤️‍🔥 I have a love and passion towards developing new technology
+- ❤️‍🔥 "I thoroughly enjoy the process of developing innovative technology
 - 🧑‍🤝‍🧑 Looking to colloborate with other like-minded individuals
 - ⚡ Fun Fact: I enjoy participating in competitve sports & MMA
 
