@@ -1,7 +1,7 @@
 ### Hi there, I'm Geshanth Krishnapillai - Software Developer 👋
 
 ## I'm a Student, Developer, Designer!
-- 🧑‍🎓 4th year student @ University of Ottawa
+- 🧑‍🎓 5th year student @ University of Ottawa
 - ❤️‍🔥 I thoroughly enjoy the process of developing innovative technology
 - 🧑‍🤝‍🧑 Looking to colloborate with other like-minded individuals
 - ⚡ Fun Fact: I enjoy participating in competitve sports & MMA
