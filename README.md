@@ -1,10 +1,10 @@
 ### Hi there, I'm Geshanth Krishnapillai - Software Developer 👋
 
-## I'm a Engineer, Developer, Designer!
+## I'm an Engineer, Developer, Designer!
 - 🧑‍🎓 University of Ottawa, BSc Computer Science Graduate
 - ❤️‍🔥 I thoroughly enjoy the process of developing innovative technology
-- 🧑‍🤝‍🧑 Looking to colloborate with other like-minded individuals
-- ⚡ Fun Fact: I enjoy participating in competitve sports & MMA
+- 🧑‍🤝‍🧑 Looking to collaborate with other like-minded individuals
+- ⚡ Fun Fact: I enjoy participating in competitive sports & MMA
 
 ---
 <!--
