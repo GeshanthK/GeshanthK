@@ -4,7 +4,7 @@
 - 🧑‍🎓 University of Ottawa, BSc Computer Science Graduate
 - ❤️‍🔥 I thoroughly enjoy the process of developing innovative technology
 - 🧑‍🤝‍🧑 Looking to collaborate with other like-minded individuals
-- ⚡ Fun Fact: I enjoy participating in competitive sports & MMA
+- ⚡ Fun Fact: I enjoy participating in competitive sports & martial arts
 
 ---
 <!--
