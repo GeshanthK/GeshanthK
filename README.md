@@ -23,6 +23,5 @@
 
 ### Connect with me:
 [<img align="left" alt="GeshanthK | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="GeshanthK | Instragram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/geshanth-krishnapillai47/
